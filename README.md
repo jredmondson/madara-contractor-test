@@ -43,7 +43,7 @@ minimum before we would consider contracting (est 1-4 hours):
    * Share the URL to your github and be sure to document your work (especially any installation process we would need to know to run your code). We appreciate this being in a README.md in the root of your github project. Doxygen commenting is especially appreciated.
    * Feel free to share/document any issues you have using MADARA or GAMS and what needs to be improved
 
-Wiki Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/InteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/InteractingWithTheTransport) | [C++ API Documentation](https://madara.readthedocs.io/en/latest/?badge=latest) | [Style and Coding Guide](Style-and-Coding-Guide)
+Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/InteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/InteractingWithTheTransport) | [C++ API Documentation](https://madara.readthedocs.io/en/latest/?badge=latest) | [Style and Coding Guide](Style-and-Coding-Guide)
 
 ***
 
@@ -65,7 +65,7 @@ contracting (est 1-4 hours):
    * Share the URL to your github and be sure to document your work (especially any installation process we would need to know to run your code). We appreciate this being in a README.md in the root of your github project. Javadocs are always appreciated.
    * Feel free to share/document any issues you have using the Java port and what needs to be improved
 
-Wiki Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/JavaKnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/JavaInteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/JavaInteractingWithTheTransport) | [Java API Documentation](http://javadoc.io/doc/ai.madara/madara)
+Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/JavaKnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/JavaInteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/JavaInteractingWithTheTransport) | [Java API Documentation](http://javadoc.io/doc/ai.madara/madara)
 
 ***
 
@@ -87,6 +87,6 @@ we would consider contracting (est 1-4 hours):
    * Share the URL to your github and be sure to document your work (especially any installation process we would need to know to run your code). We appreciate this being in a README.md in the root of your github project.
    * Feel free to share/document any issues you have using the Python port and what needs to be improved
 
-Wiki Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/PythonKnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/PythonInteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/PythonInteractingWithTheTransport) |Python API Documentation (`help ('madara')`)
+Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/PythonKnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/PythonInteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/PythonInteractingWithTheTransport) |Python API Documentation (`help ('madara')`)
 
 
