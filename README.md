@@ -39,6 +39,7 @@ minimum before we would consider contracting (est 1-4 hours):
    * Use KnowledgeBase::send_modifieds to send data
    * Be creative and feel free to explore the features
    * Save knowledge to a file as either karl, JSON, or binary
+   * Do not worry about a V-REP simulation as that is currently in a state of flux and may not be working
    * BONUS: Create an on-receive filter that reacts to knowledge changes over the network
    * Share the URL to your github and be sure to document your work (especially any installation process we would need to know to run your code). We appreciate this being in a README.md in the root of your github project. Doxygen commenting is especially appreciated.
    * Feel free to share/document any issues you have using MADARA or GAMS and what needs to be improved
