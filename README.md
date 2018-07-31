@@ -44,7 +44,7 @@ minimum before we would consider contracting (est 1-4 hours):
    * Share the URL to your github and be sure to document your work (especially any installation process we would need to know to run your code). We appreciate this being in a README.md in the root of your github project. Doxygen commenting is especially appreciated.
    * Feel free to share/document any issues you have using MADARA or GAMS and what needs to be improved
 
-Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/InteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/InteractingWithTheTransport) | [C++ API Documentation](https://madara.readthedocs.io/en/latest/?badge=latest) | [Style and Coding Guide](Style-and-Coding-Guide)
+Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/InteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/InteractingWithTheTransport) | [C++ API Documentation](https://madara.readthedocs.io/en/latest/?badge=latest) | [Style and Coding Guide](https://github.com/jredmondson/madara/wiki/Style-and-Coding-Guide)
 
 ***
 
