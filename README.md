@@ -95,7 +95,7 @@ Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Ins
 
 # Analytics Engineer
 
-We are very interested in finding engineers with a good grasp on machine learning who can help us develop tools for autonomy engineers and robotics researchers. The following is a description of tasks that we would like to see done to establish your ability to pursue tasks in classification, regression, clustering or rule extraction (est 4-12 hours):
+We are very interested in finding engineers with a good grasp on machine learning who can help us develop tools for autonomy engineers and robotics researchers. The following is a description of tasks that we would like to see done to establish your ability to pursue tasks in classification, regression, clustering or rule extraction (est 2-12 hours, depending on estimated time of running ML algorithms and the size of the data set you want to work on):
 
  * Install MLPACK or TensorFlow
  * Install the MADARA middleware
@@ -110,6 +110,7 @@ We are very interested in finding engineers with a good grasp on machine learnin
      * Feel free to use UDP Multicast or ZMQ transports in MADARA (see Pages of Interest for more info)
    * Use containers where possible, such as NativeDoubleVector, DoubleVector or similar data structures on the [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) wiki page
    * Use KnowledgeBase::send_modifieds to send data
+   * The MADARA implementation can be optional if time is limited. You will need to be able to integrate quickly with MADARA though, as it is a primary middleware that we are working on
  * Upload your code to a new github project and provide us with the link
  * Feel free to email me with questions on problem statement, installation, or configuration
 
