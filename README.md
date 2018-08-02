@@ -3,6 +3,7 @@
  * [C++ Developer](#c-developer)
  * [Java Developer](#java-developer)
  * [Python Developer](#python-developer)
+ * [Analytics Engineer](#analytics-engineer)
 
 ***
 
@@ -89,5 +90,24 @@ we would consider contracting (est 1-4 hours):
    * Feel free to share/document any issues you have using the Python port and what needs to be improved
 
 Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/PythonKnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/PythonInteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/PythonInteractingWithTheTransport) |Python API Documentation (`help ('madara')`)
+
+***
+
+# Analytics Engineer
+
+We are very interested in finding engineers with a good grasp on machine learning who can help us develop tools for autonomy engineers and robotics researchers. The following is a description of tasks that we would like to see done to establish your ability to pursue tasks in classification, regression, clustering or rule extraction (est 2-7 hours):
+
+ * Install MLPACK or TensorFlow
+ * Install the MADARA middleware
+ * Download one of the image data sets from [DeepLearning.net](http://deeplearning.net/datasets/) or a similar site
+ * Apply classification or rule extraction to the image-based data set.
+   * Be creative in what you are trying to extract or classify.
+   * You will discuss your implementation with interviewers. Impress us! If it can be applied to distributed AI in robots, even better!
+ * Use MADARA to send the data to a karl interpreter over multicast, UDP or ZMQ
+   * Use containers where possible, such as NativeDoubleVector, DoubleVector or similar data structures on the [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) wiki page
+   * Use KnowledgeBase::send_modifieds to send data
+ * Upload your code to a new github project and provide us with the link
+
+Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/InteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/InteractingWithTheTransport) | [C++ API Documentation](https://madara.readthedocs.io/en/latest/?badge=latest) | [Style and Coding Guide](https://github.com/jredmondson/madara/wiki/Style-and-Coding-Guide)
 
 
