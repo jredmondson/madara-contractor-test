@@ -103,10 +103,15 @@ We are very interested in finding engineers with a good grasp on machine learnin
  * Apply classification or rule extraction to the image-based data set.
    * Be creative in what you are trying to extract or classify.
    * You will discuss your implementation with interviewers. Impress us! If it can be applied to distributed AI in robots, even better!
- * Use MADARA to send the data to a karl interpreter over multicast, UDP or ZMQ
+ * Use MADARA to send the classification or rule extraction data
+   * Create two custom MADARA applications
+     * One that calls the machine learning functions in MLPACK or TensorFlow and saves useful classifiers or rules into MADARA variables
+     * One that looks for this machine learning data and displays it or analyzes it in some way
+     * Feel free to use UDP Multicast or ZMQ transports in MADARA (see Pages of Interest for more info)
    * Use containers where possible, such as NativeDoubleVector, DoubleVector or similar data structures on the [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) wiki page
    * Use KnowledgeBase::send_modifieds to send data
  * Upload your code to a new github project and provide us with the link
+ * Feel free to email me with questions
 
 Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/InteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/InteractingWithTheTransport) | [C++ API Documentation](https://madara.readthedocs.io/en/latest/?badge=latest) | [Style and Coding Guide](https://github.com/jredmondson/madara/wiki/Style-and-Coding-Guide)
 
