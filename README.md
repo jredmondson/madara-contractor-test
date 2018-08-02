@@ -111,7 +111,7 @@ We are very interested in finding engineers with a good grasp on machine learnin
    * Use containers where possible, such as NativeDoubleVector, DoubleVector or similar data structures on the [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) wiki page
    * Use KnowledgeBase::send_modifieds to send data
  * Upload your code to a new github project and provide us with the link
- * Feel free to email me with questions
+ * Feel free to email me with questions on problem statement, installation, or configuration
 
 Pages of Interest: [Installation](https://github.com/jredmondson/madara/wiki/Installation) | [Containers](https://github.com/jredmondson/madara/wiki/KnowledgeContainers) | [Knowledge](https://github.com/jredmondson/madara/wiki/InteractingWithTheKnowledgeBase) | [Networking](https://github.com/jredmondson/madara/wiki/InteractingWithTheTransport) | [C++ API Documentation](https://madara.readthedocs.io/en/latest/?badge=latest) | [Style and Coding Guide](https://github.com/jredmondson/madara/wiki/Style-and-Coding-Guide)
 
