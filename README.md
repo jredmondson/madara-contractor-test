@@ -33,14 +33,14 @@ wikis, extract instructions, digest doxygen API information quickly, and get
 things done. The following is a task that we would like to see done at a
 minimum before we would consider contracting (est 1-4 hours):
 
- * Install the MADARA middleware with ZMQ enabled
- * Create a simple MADARA application that communicates between 2+ nodes using ZMQ TCP transport protocol
+ * Install the MADARA middleware
+ * Create a simple MADARA application that communicates between 2+ nodes using a UDP or ZMQ TCP transport protocol
    * Create a github that we can access to look at your code and documentation
    * Use MADARA containers in the madara::knowledge::containers namespace to access and mutate knowledge in the KnowledgeBase
    * Use KnowledgeBase::send_modifieds to send data
    * Be creative and feel free to explore the features
    * Save knowledge to a file as either karl, JSON, or binary
-   * Do not worry about a V-REP simulation as that is currently in a state of flux and may not be working
+   * Do NOT use VREP as this may not be working currently and we want you to focus on a MADARA application, not GAMS
    * BONUS: Create an on-receive filter that reacts to knowledge changes over the network
    * Share the URL to your github and be sure to document your work (especially any installation process we would need to know to run your code). We appreciate this being in a README.md in the root of your github project. Doxygen commenting is especially appreciated.
    * Feel free to share/document any issues you have using MADARA or GAMS and what needs to be improved
